@@ -1,0 +1,14 @@
+Man = Não rolou
+Ls = Listou
+CP e MV = Não entedi
+
+MV' renomeando' deu certo = mv index2.html index.html
+
+mkdir = criar diretorio
+rm = apagar aquivo 
+rm -r = apaga diretorio
+PWD = Saber o diretorio 
+CD = caminha pelo diretorio 
+touch = Criar arquivo de texto
+cd = entra num sub pasta Desktop/ESTUDOS/ProgDC/
+
